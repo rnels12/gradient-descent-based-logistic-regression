@@ -7,10 +7,10 @@ Created Date  : October 2021
 Python Version: Python 3.6.9
 
 Main function: 
-- get & process the data
-- separate the data into the training and test sets
-- call and feed training data to the logistic regression (LR)
-- measure the training LR against (sparred) test data
+- gets & processes the data
+- separates the data into the training and test sets
+- calls and feeds training data to the logistic regression (LR)
+- measures the training LR against (sparred) test data
 """
 
 import pandas as pd
